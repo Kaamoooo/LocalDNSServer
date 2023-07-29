@@ -1,0 +1,15 @@
+D:\SCU\Projects\LocalDNSServer\LocalDNSServer\bin\Debug\net6.0\LocalDNSServer.exe
+D:\SCU\Projects\LocalDNSServer\LocalDNSServer\bin\Debug\net6.0\LocalDNSServer.deps.json
+D:\SCU\Projects\LocalDNSServer\LocalDNSServer\bin\Debug\net6.0\LocalDNSServer.runtimeconfig.json
+D:\SCU\Projects\LocalDNSServer\LocalDNSServer\bin\Debug\net6.0\LocalDNSServer.dll
+D:\SCU\Projects\LocalDNSServer\LocalDNSServer\bin\Debug\net6.0\LocalDNSServer.pdb
+D:\SCU\Projects\LocalDNSServer\LocalDNSServer\obj\Debug\net6.0\LocalDNSServer.csproj.AssemblyReference.cache
+D:\SCU\Projects\LocalDNSServer\LocalDNSServer\obj\Debug\net6.0\LocalDNSServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCU\Projects\LocalDNSServer\LocalDNSServer\obj\Debug\net6.0\LocalDNSServer.AssemblyInfoInputs.cache
+D:\SCU\Projects\LocalDNSServer\LocalDNSServer\obj\Debug\net6.0\LocalDNSServer.AssemblyInfo.cs
+D:\SCU\Projects\LocalDNSServer\LocalDNSServer\obj\Debug\net6.0\LocalDNSServer.csproj.CoreCompileInputs.cache
+D:\SCU\Projects\LocalDNSServer\LocalDNSServer\obj\Debug\net6.0\LocalDNSServer.dll
+D:\SCU\Projects\LocalDNSServer\LocalDNSServer\obj\Debug\net6.0\refint\LocalDNSServer.dll
+D:\SCU\Projects\LocalDNSServer\LocalDNSServer\obj\Debug\net6.0\LocalDNSServer.pdb
+D:\SCU\Projects\LocalDNSServer\LocalDNSServer\obj\Debug\net6.0\LocalDNSServer.genruntimeconfig.cache
+D:\SCU\Projects\LocalDNSServer\LocalDNSServer\obj\Debug\net6.0\ref\LocalDNSServer.dll
